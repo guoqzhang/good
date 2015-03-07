@@ -1,4 +1,7 @@
 <?php
+/*
+good
+*/
 namespace framework\cache\driver;
 use framework\cache;
 
